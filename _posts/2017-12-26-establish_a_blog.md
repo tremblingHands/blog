@@ -14,8 +14,8 @@ tags:
 ---
 1. 在git上创建账号
 2. 创建一个repo(名字例如blog)
-3. 进入该repo中的setting界面，找到GitHub Pages一栏，选择Source:master branch![](/img/in-post/post-nextgen-web-pwa/sw-sw.png)
-4. 生成的地址便是你之后的博客地址![](/img/in-post/establish_a_blog/2017-12-26-establish_a_blog_2.png)
+3. 进入该repo中的setting界面，找到GitHub Pages一栏，选择Source:master branch![]({{site.baseurl}}/img/in-post/post-nextgen-web-pwa/sw-sw.png)
+4. 生成的地址便是你之后的博客地址![]({{site.baseurl}}/img/in-post/establish_a_blog/2017-12-26-establish_a_blog_2.png)
 5. 从[jekyllthemes](http://jekyllthemes.org) 中选择一个theme并git到本地
 6. 修改’_config.yml’文件
     将baseurl替换成你的repo名字，例如baseurl:"/blog"
