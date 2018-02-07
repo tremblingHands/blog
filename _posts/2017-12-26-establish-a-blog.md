@@ -1,15 +1,12 @@
 ---
 layout: post
-title: "在git上简单的制作一个自己的博客"
+title: "简单的构建一个自己的博客"
 author: "omnihorizon"
-categories:
-- Works
-- Tech
+subtitle: "git page"
+header-img: "img/in-post/post-establish-a-blog/2017-12-26-establish-a-blog-2.png"
 tags:
-- bootstrap
-- javascript
-- php
-- AngularJS
+- git
+- jekyll
 
 ---
 1. 在git上创建账号
