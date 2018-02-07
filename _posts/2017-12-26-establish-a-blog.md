@@ -3,7 +3,7 @@ layout: post
 title: "简单的构建一个自己的博客"
 author: "omnihorizon"
 subtitle: "git page"
-header-img: "img/in-post/post-establish-a-blog/2017-12-26-establish-a-blog-2.png"
+header-img: "img/in-post/post-establish-a-blog/jekyll.png"
 tags:
 - git
 - jekyll
