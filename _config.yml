@@ -7,7 +7,7 @@ description: "android底层开发 linux | 这里是 @omnihorizon 的个人博客
 keyword: "omnihorizon, Blog, 博客, 个人网站, 互联网"
 baseurl:        "/blog"
 url:            "https://github.com/tremblingHands"
-avatar: /img/avatar-omnihorizon.jpeg
+author.avatar: /img/avatar-omnihorizon.jpeg
 
 
 # SNS settings
